@@ -13,10 +13,15 @@ First-year Computer Science student at Almaty Management University (AlmaU), Kaz
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 <br>
 ### Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nightyum)](https://leetcode.com/u/nightyum/)
-<a href="https://github.com/nightyum">
-    <img src="https://github-stats-extended.vercel.app/api?username=nightyum&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="225"/>
-</a>
+<p align="left">
+  <a href="https://leetcode.com/u/nightyum/">
+    <img src="https://leetcard.jacoblin.cool/nightyum?theme=dark" height="165"/>
+  </a>
+  <a href="https://github.com/nightyum">
+    <img src="https://github-stats-extended.vercel.app/api?username=nightyum&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="165"/>
+  </a>
+</p>
+
 ### Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
