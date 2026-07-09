@@ -12,6 +12,8 @@ First-year Computer Science student at Almaty Management University (AlmaU), Kaz
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 <br>
+### Courses
+[![Stepik](https://img.shields.io/badge/Stepik-Profile-2C2C2C?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/542696962/profile)
 ### Stats
 <p align="left">
   <a href="https://leetcode.com/u/nightyum/">
