@@ -26,5 +26,3 @@ First-year Computer Science student at Almaty Management University (AlmaU), Kaz
 
 ### Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nightyum)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mikhail.erastov@gmail.com)
-[![Website](https://img.shields.io/badge/projoky.ru-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://projoky.ru)
