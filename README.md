@@ -19,6 +19,9 @@ First-year Computer Science student at Almaty Management University (AlmaU), Kaz
   <a href="https://leetcode.com/u/nightyum/">
     <img src="https://leetcard.jacoblin.cool/nightyum?theme=dark" height="165"/>
   </a>
+  <a href="https://github.com/nightyum">
+    <img src="https://github-stats-extended.vercel.app/api?username=nightyum&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="165"/>
+  </a>
 </p>
 
 ### Contact
