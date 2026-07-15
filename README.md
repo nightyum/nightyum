@@ -1,4 +1,4 @@
-<h1 align="left">Mikhail</h1>
+<h1 align="left">Arch user btw.</h1>
 
 First-year Computer Science student at Almaty Management University (AlmaU), Kazakhstan.
 <br>
